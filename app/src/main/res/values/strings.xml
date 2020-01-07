@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToastCounter</string>
+    <string name="button">nappula</string>
+    <string name="onPress">paina tasta</string>
+    <string name="button2">nappula2</string>
+    <string name="onPress2">countterin arvo</string>
+    <string name="button3">nappula3</string>
+    <string name="onPress3">nollaa</string>
+
+    <string name="textView">countteri</string>
+</resources>
